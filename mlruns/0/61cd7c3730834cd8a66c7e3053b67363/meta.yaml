@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Advanced/MLOPS-PROJECT-3/mlruns/0/61cd7c3730834cd8a66c7e3053b67363/artifacts
+end_time: 1763011825501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61cd7c3730834cd8a66c7e3053b67363
+run_name: resilient-bass-924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763011803863
+status: 3
+tags: []
+user_id: sarth
